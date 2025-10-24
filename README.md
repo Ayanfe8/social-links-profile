@@ -24,7 +24,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### 🚀 Live Demo and Links
 
 - Solution URL: [https://github.com/Ayanfe8/social-links-profile](https://github.com/Ayanfe8/social-links-profile)
-- Live Demo URL: You can view the live version of the project [https://ayanfe8.github.io/social-links-profile/](https://ayanfe8.github.io/social-links-profile/)
+- Live Demo URL: You can view the live version of the project [https://ayanfe8.github.io/QR-Code-Component/](https://ayanfe8.github.io/QR-Code-Component/)
 
 ## My process
 

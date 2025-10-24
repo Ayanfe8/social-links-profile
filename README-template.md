@@ -19,7 +19,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### 📸 Screenshot
 
-![Social Links Profile](/assets/images/screenshot.jpgscreenshot.jpg)
+![Social Links Profile](/assets/images/screenshot.jpg)
 
 ### 🚀 Live Demo and Links
 
